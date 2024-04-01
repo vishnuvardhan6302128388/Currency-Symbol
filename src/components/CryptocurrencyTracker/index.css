@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #000000;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

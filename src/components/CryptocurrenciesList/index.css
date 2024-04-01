@@ -1,0 +1,45 @@
+/* Write your CSS code here */
+.heads-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+}
+.type-container {
+  display: flex;
+  justify-content: space-between;
+}
+.type {
+  color: white;
+  font-size: 25px;
+  padding-left: 30px;
+}
+.usd {
+  color: white;
+  font-size: 20px;
+}
+.euro {
+  color: white;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.lists-container {
+  border: 5px solid #00e7ff;
+  background-size: cover;
+  width: 90%;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #00e7ff;
+  font-family: roboto;
+  font-size: 40px;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+}
